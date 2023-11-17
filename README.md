@@ -11,6 +11,7 @@
 [Generative AI with LLMs (Coursera)](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 
 [Other Gen-AI on-demand trainings (Technical)](https://github.com/bbonik/AWS-AIML-ondemand-trainings#generative-ai)   
+   
 
 ## 2- Generative AI on Amazon SageMaker Workshop (Technical)
 
@@ -19,12 +20,12 @@
 [GPT in action on Amazon SageMaker](https://catalog.us-east-1.prod.workshops.aws/workshops/63e7fe0e-d2c6-4098-aba8-9f3322eb61e5/en-US)
 
 [Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK](https://catalog.workshops.aws/genai-cdk-workshop/en-US)   
-
-
+   
+   
 ## 3- Generative AI on Amazon Bedrock Workshop (Technical)
 
 [Amazon Bedrock Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US)   
-
-
+   
+   
 ## 2 - CDK Training Resources
 
