@@ -1,5 +1,4 @@
-### 1- Generative AI Online Training Resources
-------
+## 1- Generative AI Online Training Resources
 
 [Generative AI Learning Plan for Decision Makers (Business)](https://explore.skillbuilder.aws/learn/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers)
 
