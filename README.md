@@ -13,6 +13,12 @@
 [Other Gen-AI on-demand trainings (Technical)](https://github.com/bbonik/AWS-AIML-ondemand-trainings#generative-ai)   
    
 
+
+
+
+
+
+
 ## 2- Generative AI on Amazon SageMaker Workshop (Technical)
 
 
