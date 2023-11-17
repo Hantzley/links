@@ -2,7 +2,7 @@
 
 [Generative AI Learning Plan for Decision Makers (Business)](https://explore.skillbuilder.aws/learn/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers)
 
-[Generative AI Learning Plan: Business Professionals (Partner)]([https://explore.skillbuilder.aws/learn/lp/1937/Generative%20AI%20Learning%20Plan%3A%20Business%20Professionals%20(Partner))
+[Generative AI Learning Plan: Business Professionals (Partner)](https://explore.skillbuilder.aws/learn/lp/1937/Generative%20AI%20Learning%20Plan%3A%20Business%20Professionals%20(Partner))
 
 [Generative AI Learning Plan: Technical Professionals (Partner)](https://explore.skillbuilder.aws/learn/lp/1938/Generative%20AI%20Learning%20Plan%3A%20Technical%20Professionals%20(Partner))
 
