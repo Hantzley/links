@@ -1,4 +1,4 @@
-## 1- Generative AI Online Training Resources
+### 1- Generative AI Online Training Resources
 
 [Generative AI Learning Plan for Decision Makers (Business)](https://explore.skillbuilder.aws/learn/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers)
 
@@ -13,7 +13,7 @@
 [Other Gen-AI on-demand trainings (Technical)](https://github.com/bbonik/AWS-AIML-ondemand-trainings#generative-ai)   
    
 
-## 2- Generative AI on Amazon SageMaker Workshop (Technical)
+### 2- Generative AI on Amazon SageMaker Workshop (Technical)
 
 [Generative AI on Amazon SageMaker - Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/972fd252-36e5-4eed-8608-743e84957f8e/en-US)
 
@@ -22,10 +22,10 @@
 [Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK](https://catalog.workshops.aws/genai-cdk-workshop/en-US)   
    
    
-## 3- Generative AI on Amazon Bedrock Workshop (Technical)
+### 3- Generative AI on Amazon Bedrock Workshop (Technical)
 
 [Amazon Bedrock Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US)   
    
    
-## 2 - CDK Training Resources
+### 2 - CDK Training Resources
 
